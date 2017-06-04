@@ -3,5 +3,6 @@
  */
 public class mymaven {
     private String a;
+    private String b;
 
 }
